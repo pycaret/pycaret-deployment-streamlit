@@ -1,12 +1,20 @@
 # Build and deploy machine learning web app using PyCaret and Streamlit
-#### A beginner's guide to deploy machine learning app on Heroku PaaS
+#### A step-by-step tutorial to build AutoML solution in Power BI
 
-Read the complete post: https://medium.com/@moez_62905/build-and-deploy-machine-learning-web-app-using-pycaret-and-streamlit-28883a569104
+Read the complete post: XXXX
+
+### Important Links
+
+- PyCaret 2.0 Official Announcement : https://towardsdatascience.com/announcing-pycaret-2-0-39c11014540e
+
+- PyCaret 2.0 Release Notes : https://github.com/pycaret/pycaret/releases/tag/2.0
 
 - Official Website : https://www.pycaret.org
 
-- Follow us on LinkedIn : https://www.linkedin.com/company/pycaret/
+- GitHub : https://www.github.com/pycaret/
 
-- Subscribe to our YouTube : https://www.youtube.com/channel/UCxA1YTYJ9BEeo50lxyI_B3g 
+- Stackoverflow : https://stackoverflow.com/questions/tagged/pycaret
 
-- PyCaret repository : https://www.github.com/pycaret/pycaret
+- LinkedIn : https://www.linkedin.com/company/pycaret/
+
+- YouTube : https://www.youtube.com/channel/UCxA1YTYJ9BEeo50lxyI_B3g 
