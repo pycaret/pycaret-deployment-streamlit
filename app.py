@@ -13,17 +13,17 @@ def predict(model, input_df):
 def run():
 
     from PIL import Image
-    image = Image.open('logo.png')
+    # image = Image.open('logo.png')
     image_hospital = Image.open('hospital.jpg')
 
-    st.image(image,use_column_width=False)
+    # st.image(image,use_column_width=False)
 
     add_selectbox = st.sidebar.selectbox(
     "How would you like to predict?",
     ("Online", "Batch"))
 
     st.sidebar.info('This app is created to predict patient hospital charges')
-    st.sidebar.success('https://www.pycaret.org')
+    # st.sidebar.success('https://www.pycaret.org')
     
     st.sidebar.image(image_hospital)
 
